@@ -1,3 +1,11 @@
 h1{ color: blue;}
-.profile-image { max-width:20%;
+.class1 { text-align:left;
+         max-width:20%;
          height:auto;}
+.class2 { text-align:center;
+         max-width:20%;
+         height:auto;}
+.class3 { text-align:right;
+         max-width:20%;
+         height:auto;}
+
