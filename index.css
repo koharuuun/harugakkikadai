@@ -1,5 +1,5 @@
 h1{ color: black;}
-.class1{ text-align: right; max-width:20%; height:auto;}
-.class2{ text-align: center; max-width:20%; height:auto;}
+.class1{ text-align: left; max-width:20%; height:auto;}
+.class2{ text-align: left; max-width:20%; height:auto;}
 .class3{ text-align: right; max-width:20%; height:auto;}
 
